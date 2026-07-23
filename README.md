@@ -462,7 +462,7 @@ The following Microsoft Learn resources were used during the implementation of t
 
 
 
-- Microsoft Learn – Active Directory Domain Services: https://learn.microsoft.com/windows-server/identity/ad-ds/
+- Microsoft Learn – Active Directory Domain Services: https://learn.microsoft.com/en-us/training/modules/introduction-to-ad-ds/
 
 - Microsoft Learn – Microsoft Entra ID: https://learn.microsoft.com/entra/
 
