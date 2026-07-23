@@ -10,7 +10,7 @@ This lab uses a hybrid identity environment with an on-premises Active Directory
 
 
 
-![Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid_Identity_Lab_Architecture.png)
+![Hybrid Identity Lab Architecture](../Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 
 
