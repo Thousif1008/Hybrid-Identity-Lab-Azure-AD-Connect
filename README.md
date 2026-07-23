@@ -124,7 +124,7 @@ The repository includes the complete implementation process, PowerShell automati
 
 - Microsoft Entra Connect
 
--Microsoft 365 Admin Center
+- Microsoft 365 Admin Center
 
 - PowerShell
 
