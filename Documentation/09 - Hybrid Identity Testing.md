@@ -66,7 +66,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/03_Delta_Sync_PowerShell(1).png)
+![Delta Synchronization](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/03_Delta_Sync_PowerShell.png)
 
 
 
