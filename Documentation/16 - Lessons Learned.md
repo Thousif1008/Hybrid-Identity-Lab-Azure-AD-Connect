@@ -1,4 +1,4 @@
-\# Lessons Learned
+# Lessons Learned
 
 
 
@@ -10,19 +10,19 @@ During this lab, I learned how to:
 
 
 
-\- Install and configure Active Directory Domain Services on Windows Server.
+- Install and configure Active Directory Domain Services on Windows Server.
 
-\- Create and manage organizational units, users, and security groups.
+- Create and manage organizational units, users, and security groups.
 
-\- Join Windows client computers to an Active Directory domain.
+- Join Windows client computers to an Active Directory domain.
 
-\- Configure Microsoft Entra Connect to synchronize on-premises identities with Microsoft Entra ID.
+- Configure Microsoft Entra Connect to synchronize on-premises identities with Microsoft Entra ID.
 
-\- Run Initial and Delta synchronization using PowerShell.
+- Run Initial and Delta synchronization using PowerShell.
 
-\- Verify user, group, password hash, and attribute synchronization.
+- Verify user, group, password hash, and attribute synchronization.
 
-\- Check synchronization status and identify common synchronization issues.
+- Check synchronization status and identify common synchronization issues.
 
 
 

@@ -1,8 +1,8 @@
-\# Attribute Synchronization
+# Attribute Synchronization
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,27 +10,27 @@ This section verifies that changes made to user attributes in the on-premises Ac
 
 
 
-\---
+---
 
 
 
-\## Updating the User Attribute
+## Updating the User Attribute
 
 
 
-The \*\*Business phone number\*\* for the user \*\*Ethan Smith\*\* was updated in Active Directory.
+The **Business phone number** for the user **Ethan Smith** was updated in Active Directory.
 
 
 
-!\[User Attribute Updated in Active Directory](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/01\_AD\_User\_Attribute\_Updated.png)
+![User Attribute Updated in Active Directory](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/01_AD_User_Attribute_Updated.png)
 
 
 
-\---
+---
 
 
 
-\## Running a Delta Synchronization
+## Running a Delta Synchronization
 
 
 
@@ -50,19 +50,19 @@ The command completed successfully.
 
 
 
-!\[Delta Synchronization](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/02\_Delta\_Synchronization\_Success.png)
+![Delta Synchronization](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/02_Delta_Synchronization_Success.png)
 
 
 
-\---
+---
 
 
 
-\## Verifying the Updated Attribute
+## Verifying the Updated Attribute
 
 
 
-After the synchronization completed, the updated \*\*Business phone\*\* number for \*\*Ethan Smith\*\* appeared in Microsoft Entra ID.
+After the synchronization completed, the updated **Business phone** number for **Ethan Smith** appeared in Microsoft Entra ID.
 
 
 
@@ -70,17 +70,17 @@ This confirms that changes made to user attributes in Active Directory are synch
 
 
 
-!\[Updated User Attribute in Microsoft Entra ID](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/03\_Entra\_User\_Attribute\_Verified.png)
+![Updated User Attribute in Microsoft Entra ID](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/03_Entra_User_Attribute_Verified.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 
-The updated business phone number for the user \*\*Ethan Smith\*\* was synchronized successfully from Active Directory to Microsoft Entra ID. This confirms that changes to user attributes are replicated correctly through Entra Connect.
+The updated business phone number for the user **Ethan Smith** was synchronized successfully from Active Directory to Microsoft Entra ID. This confirms that changes to user attributes are replicated correctly through Entra Connect.
 

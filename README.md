@@ -1,8 +1,8 @@
-\# Hybrid Identity Lab - Microsoft Entra Connect
+# Hybrid Identity Lab - Microsoft Entra Connect
 
 
 
-A hybrid identity lab built with \*\*Windows Server 2022\*\*, \*\*Active Directory\*\*, \*\*Microsoft Entra Connect\*\*, and \*\*Microsoft Entra ID\*\* using \*\*Password Hash Synchronization (PHS)\*\*.
+A hybrid identity lab built with **Windows Server 2022**, **Active Directory**, **Microsoft Entra Connect**, and **Microsoft Entra ID** using **Password Hash Synchronization (PHS)**.
 
 
 
@@ -10,39 +10,39 @@ This repository contains the complete setup of a hybrid identity environment, in
 
 
 
-!\[Hybrid Identity Lab Architecture](Architecture/Hybrid\_Identity\_Lab\_Architecture.png)
+![Hybrid Identity Lab Architecture](Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 
 
-\---
+---
 
 
 
-\## Connect
+## Connect
 
 
 
-\- \*\*GitHub:\*\* https://github.com/Thousif1008
+- **GitHub:** https://github.com/Thousif1008
 
-\- \*\*LinkedIn:\*\* https://www.linkedin.com/in/mohammedthousifraza/
+- **LinkedIn:** https://www.linkedin.com/in/mohammedthousifraza/
 
-\- \*\*Credly:\*\* https://www.credly.com/users/mohammed-thousif-raza
-
-
-
-\---
+- **Credly:** https://www.credly.com/users/mohammed-thousif-raza
 
 
 
-\## Lab Overview
+---
 
 
 
-This lab was built in \*\*VMware Workstation Pro\*\* using \*\*Windows Server 2022\*\* as the domain controller and \*\*Windows 11 Pro\*\* as the client machine.
+## Lab Overview
 
 
 
-Microsoft Entra Connect was configured to synchronize the on-premises Active Directory environment with Microsoft Entra ID using \*\*Password Hash Synchronization (PHS)\*\*.
+This lab was built in **VMware Workstation Pro** using **Windows Server 2022** as the domain controller and **Windows 11 Pro** as the client machine.
+
+
+
+Microsoft Entra Connect was configured to synchronize the on-premises Active Directory environment with Microsoft Entra ID using **Password Hash Synchronization (PHS)**.
 
 
 
@@ -50,43 +50,43 @@ The repository includes the complete implementation process, PowerShell automati
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
-\- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services (AD DS)
 
-\- DNS Configuration
+- DNS Configuration
 
-\- Organizational Unit (OU) Management
+- Organizational Unit (OU) Management
 
-\- User Synchronization
+- User Synchronization
 
-\- Group Synchronization
+- Group Synchronization
 
-\- Group Policy Configuration
+- Group Policy Configuration
 
-\- Microsoft Entra Connect Installation
+- Microsoft Entra Connect Installation
 
-\- Password Hash Synchronization (PHS)
+- Password Hash Synchronization (PHS)
 
-\- PowerShell Automation
+- PowerShell Automation
 
-\- Synchronization Validation
+- Synchronization Validation
 
-\- Troubleshooting
-
-
-
-\---
+- Troubleshooting
 
 
 
-\## Lab Environment
+---
+
+
+
+## Lab Environment
 
 
 
@@ -108,39 +108,39 @@ The repository includes the complete implementation process, PowerShell automati
 
 
 
-\---
+---
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\- Windows Server 2022
+- Windows Server 2022
 
-\- Active Directory Domain Services
+- Active Directory Domain Services
 
-\- Microsoft Entra ID
+- Microsoft Entra ID
 
-\- Microsoft Entra Connect
+- Microsoft Entra Connect
 
-\-Microsoft 365 Admin Center
+-Microsoft 365 Admin Center
 
-\- PowerShell
+- PowerShell
 
-\- DNS
+- DNS
 
-\- Group Policy
+- Group Policy
 
-\- VMware Workstation Pro
-
-
-
-\---
+- VMware Workstation Pro
 
 
 
-\## Project Structure
+---
+
+
+
+## Project Structure
 
 
 
@@ -152,7 +152,7 @@ Hybrid-Identity-Lab-Azure-AD-Connect
 
 ├── Architecture
 
-│   └── Hybrid\_Identity\_Lab\_Architecture.png
+│   └── Hybrid_Identity_Lab_Architecture.png
 
 │
 
@@ -214,15 +214,15 @@ Hybrid-Identity-Lab-Azure-AD-Connect
 
 
 
-\---
+---
 
 
 
-\## Documentation
+## Documentation
 
 
 
-The complete implementation guide is available in the \*\*Documentation\*\* folder.
+The complete implementation guide is available in the **Documentation** folder.
 
 
 
@@ -230,45 +230,45 @@ The complete implementation guide is available in the \*\*Documentation\*\* fold
 
 |----------|-------------|
 
-| \[01 - Lab Overview](Documentation/01%20-%20Lab%20Overview.md) | Project overview |
+| [01 - Lab Overview](Documentation/01%20-%20Lab%20Overview.md) | Project overview |
 
-| \[02 - Lab Architecture](Documentation/02%20-%20Lab%20Architecture.md) | Lab architecture and components |
+| [02 - Lab Architecture](Documentation/02%20-%20Lab%20Architecture.md) | Lab architecture and components |
 
-| \[03 - Prerequisites](Documentation/03%20-%20Prerequisites.md) | Software and environment requirements |
+| [03 - Prerequisites](Documentation/03%20-%20Prerequisites.md) | Software and environment requirements |
 
-| \[04 - Microsoft 365 Tenant](Documentation/04%20-%20Microsoft%20365%20Tenant.md) | Microsoft 365 tenant setup |
+| [04 - Microsoft 365 Tenant](Documentation/04%20-%20Microsoft%20365%20Tenant.md) | Microsoft 365 tenant setup |
 
-| \[05 - Active Directory](Documentation/05%20-%20Active%20Directory.md) | Active Directory configuration |
+| [05 - Active Directory](Documentation/05%20-%20Active%20Directory.md) | Active Directory configuration |
 
-| \[06 - Microsoft Entra ID](Documentation/06%20-%20Microsoft%20Entra%20ID.md) | Microsoft Entra ID preparation |
+| [06 - Microsoft Entra ID](Documentation/06%20-%20Microsoft%20Entra%20ID.md) | Microsoft Entra ID preparation |
 
-| \[07 - Entra Connect](Documentation/07%20-%20Entra%20Connect.md) | Microsoft Entra Connect installation and configuration |
+| [07 - Entra Connect](Documentation/07%20-%20Entra%20Connect.md) | Microsoft Entra Connect installation and configuration |
 
-| \[08 - Synchronization](Documentation/08%20-%20Synchronization.md) | Initial and Delta synchronization |
+| [08 - Synchronization](Documentation/08%20-%20Synchronization.md) | Initial and Delta synchronization |
 
-| \[09 - Hybrid Identity Testing](Documentation/09%20-%20Hybrid%20Identity%20Testing.md) | Hybrid identity validation |
+| [09 - Hybrid Identity Testing](Documentation/09%20-%20Hybrid%20Identity%20Testing.md) | Hybrid identity validation |
 
-| \[10 - PowerShell](Documentation/10%20-%20PowerShell.md) | PowerShell commands and scripts |
+| [10 - PowerShell](Documentation/10%20-%20PowerShell.md) | PowerShell commands and scripts |
 
-| \[11 - Synchronization Health](Documentation/11%20-%20Synchronization%20Health.md) | Synchronization health checks |
+| [11 - Synchronization Health](Documentation/11%20-%20Synchronization%20Health.md) | Synchronization health checks |
 
-| \[12 - Attribute Synchronization](Documentation/12%20-%20Attribute%20Synchronization.md) | Attribute synchronization |
+| [12 - Attribute Synchronization](Documentation/12%20-%20Attribute%20Synchronization.md) | Attribute synchronization |
 
-| \[13 - Password Hash Synchronization](Documentation/13%20-%20Password%20Hash%20Synchronization.md) | Password Hash Synchronization |
+| [13 - Password Hash Synchronization](Documentation/13%20-%20Password%20Hash%20Synchronization.md) | Password Hash Synchronization |
 
-| \[14 - Group Synchronization](Documentation/14%20-%20Group%20Synchronization.md) | Group synchronization |
+| [14 - Group Synchronization](Documentation/14%20-%20Group%20Synchronization.md) | Group synchronization |
 
-| \[15 - Troubleshooting](Documentation/15%20-%20Troubleshooting.md) | Common issues and resolutions |
+| [15 - Troubleshooting](Documentation/15%20-%20Troubleshooting.md) | Common issues and resolutions |
 
-| \[16 - Lessons Learned](Documentation/16%20-%20Lessons%20Learned.md) | Key takeaways from the lab |
-
-
-
-\---
+| [16 - Lessons Learned](Documentation/16%20-%20Lessons%20Learned.md) | Key takeaways from the lab |
 
 
 
-\## PowerShell Scripts
+---
+
+
+
+## PowerShell Scripts
 
 
 
@@ -294,15 +294,15 @@ The following scripts were used to automate common Active Directory and Microsof
 
 
 
-\---
+---
 
 
 
-\## Implementation
+## Implementation
 
 
 
-\### VMware Workstation
+### VMware Workstation
 
 
 
@@ -310,15 +310,15 @@ The lab environment was created in VMware Workstation Pro with separate virtual 
 
 
 
-!\[VMware Workstation](Screenshots/12%20-%20Prerequisites/01\_VMware\_Workstation.png)
+![VMware Workstation](Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 
-\---
+---
 
 
 
-\### Active Directory
+### Active Directory
 
 
 
@@ -326,15 +326,15 @@ The Active Directory environment includes Organizational Units (OUs), department
 
 
 
-!\[Active Directory](Screenshots/02%20-%20Active%20Directory/03\_Department\_Users.png)
+![Active Directory](Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
 
 
 
-\---
+---
 
 
 
-\### Microsoft Entra Connect
+### Microsoft Entra Connect
 
 
 
@@ -342,15 +342,15 @@ Microsoft Entra Connect was installed and configured to synchronize the on-premi
 
 
 
-!\[Microsoft Entra Connect](Screenshots/04%20-%20Entra%20Connect/06\_Configuration\_Complete.png)
+![Microsoft Entra Connect](Screenshots/04%20-%20Entra%20Connect/06_Configuration_Complete.png)
 
 
 
-\---
+---
 
 
 
-\### Initial Synchronization
+### Initial Synchronization
 
 
 
@@ -358,15 +358,15 @@ After the initial synchronization completed, the on-premises Active Directory us
 
 
 
-!\[Initial Synchronization](Screenshots/05%20-%20Synchronization/01\_Entra\_Users\_After\_Initial\_Sync.png)
+![Initial Synchronization](Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
 
 
 
-\---
+---
 
 
 
-\### Hybrid Identity Validation
+### Hybrid Identity Validation
 
 
 
@@ -374,11 +374,11 @@ A new user was created in Active Directory to verify synchronization.
 
 
 
-\*\*User created in Active Directory\*\*
+**User created in Active Directory**
 
 
 
-!\[New Active Directory User](Screenshots/05%20-%20Synchronization/02\_New\_AD\_User\_Created.png)
+![New Active Directory User](Screenshots/05%20-%20Synchronization/02_New_AD_User_Created.png)
 
 
 
@@ -386,19 +386,19 @@ After running a Delta Synchronization, the same user appeared in Microsoft Entra
 
 
 
-\*\*User synchronized to Microsoft Entra ID\*\*
+**User synchronized to Microsoft Entra ID**
 
 
 
-!\[User in Microsoft Entra ID](Screenshots/05%20-%20Synchronization/05\_New\_User\_Overview.png)
+![User in Microsoft Entra ID](Screenshots/05%20-%20Synchronization/05_New_User_Overview.png)
 
 
 
-\---
+---
 
 
 
-\### PowerShell
+### PowerShell
 
 
 
@@ -406,55 +406,55 @@ PowerShell was used to trigger synchronization cycles and verify the Microsoft E
 
 
 
-!\[PowerShell Delta Synchronization](Screenshots/07%20-%20PowerShell/02\_Start\_Delta\_Sync.png)
+![PowerShell Delta Synchronization](Screenshots/07%20-%20PowerShell/02_Start_Delta_Sync.png)
 
 
 
-\---
+---
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\- Windows Server 2022 Administration
+- Windows Server 2022 Administration
 
-\- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services (AD DS)
 
-\- Microsoft Entra ID
+- Microsoft Entra ID
 
-\- Microsoft Entra Connect
+- Microsoft Entra Connect
 
-\- Hybrid Identity
+- Hybrid Identity
 
-\- Password Hash Synchronization (PHS)
+- Password Hash Synchronization (PHS)
 
-\- DNS Management
+- DNS Management
 
-\- Group Policy Management
+- Group Policy Management
 
-\- Organizational Unit (OU) Administration
+- Organizational Unit (OU) Administration
 
-\- User and Security Group Management
+- User and Security Group Management
 
-\- PowerShell Automation
+- PowerShell Automation
 
-\- Identity Synchronization
+- Identity Synchronization
 
-\- VMware Workstation Pro
+- VMware Workstation Pro
 
-\- Windows Client Administration
+- Windows Client Administration
 
-\- Troubleshooting
-
-
-
-\---
+- Troubleshooting
 
 
 
-\## References
+---
+
+
+
+## References
 
 
 
@@ -462,13 +462,13 @@ The following Microsoft Learn resources were used during the implementation of t
 
 
 
-\- Microsoft Learn – Active Directory Domain Services: https://learn.microsoft.com/windows-server/identity/ad-ds/
+- Microsoft Learn – Active Directory Domain Services: https://learn.microsoft.com/windows-server/identity/ad-ds/
 
-\- Microsoft Learn – Microsoft Entra ID: https://learn.microsoft.com/entra/
+- Microsoft Learn – Microsoft Entra ID: https://learn.microsoft.com/entra/
 
-\- Microsoft Learn – Microsoft Entra Connect: https://learn.microsoft.com/entra/identity/hybrid/connect/
+- Microsoft Learn – Microsoft Entra Connect: https://learn.microsoft.com/entra/identity/hybrid/connect/
 
-\- Microsoft Learn – Password Hash Synchronization (PHS): https://learn.microsoft.com/entra/identity/hybrid/connect/whatis-phs
+- Microsoft Learn – Password Hash Synchronization (PHS): https://learn.microsoft.com/entra/identity/hybrid/connect/whatis-phs
 
-\- Microsoft Learn – PowerShell Documentation: https://learn.microsoft.com/powershell/
+- Microsoft Learn – PowerShell Documentation: https://learn.microsoft.com/powershell/
 

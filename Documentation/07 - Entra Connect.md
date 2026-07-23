@@ -1,8 +1,8 @@
-\# Microsoft Entra Connect
+# Microsoft Entra Connect
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ Microsoft Entra Connect is used to synchronize identities between the on-premise
 
 
 
-\---
+---
 
 
 
-\## Download
+## Download
 
 
 
@@ -22,19 +22,19 @@ The Microsoft Entra Connect installer was downloaded from the Microsoft Entra ad
 
 
 
-!\[Download Microsoft Entra Connect](../04%20-%20Screenshots/04%20-%20Entra%20Connect/01\_Download\_Entra\_Connect.png)
+![Download Microsoft Entra Connect](../04%20-%20Screenshots/04%20-%20Entra%20Connect/01_Download_Entra_Connect.png)
 
 
 
-\---
+---
 
 
 
-\## Installation
+## Installation
 
 
 
-The installer was launched on the domain controller. After accepting the license agreement, the installation continued using \*\*Express Settings\*\*.
+The installer was launched on the domain controller. After accepting the license agreement, the installation continued using **Express Settings**.
 
 
 
@@ -42,23 +42,23 @@ Express Settings configures:
 
 
 
-\- Password Hash Synchronization
+- Password Hash Synchronization
 
-\- Required Microsoft Entra Connect components
+- Required Microsoft Entra Connect components
 
-\- Automatic synchronization
-
-
-
-!\[License Agreement](../04%20-%20Screenshots/04%20-%20Entra%20Connect/02\_License\_Agreement.png)
+- Automatic synchronization
 
 
 
-\---
+![License Agreement](../04%20-%20Screenshots/04%20-%20Entra%20Connect/02_License_Agreement.png)
 
 
 
-\## Connect to Microsoft Entra ID
+---
+
+
+
+## Connect to Microsoft Entra ID
 
 
 
@@ -74,15 +74,15 @@ The Microsoft Entra Global Administrator account was used to connect Microsoft E
 
 
 
-!\[Connect to Microsoft Entra ID](../04%20-%20Screenshots/04%20-%20Entra%20Connect/03\_User\_Sign\_In.png)
+![Connect to Microsoft Entra ID](../04%20-%20Screenshots/04%20-%20Entra%20Connect/03_User_Sign_In.png)
 
 
 
-\---
+---
 
 
 
-\## Connect to Active Directory
+## Connect to Active Directory
 
 
 
@@ -96,19 +96,19 @@ The Enterprise Administrator account for the on-premises Active Directory domain
 
 | Domain | `thousiflab.com` |
 
-| Account | `THOUSIFLAB\\Administrator` |
+| Account | `THOUSIFLABAdministrator` |
 
 
 
-!\[Connect to Active Directory](../04%20-%20Screenshots/04%20-%20Entra%20Connect/04\_Connect\_To\_AD.png)
+![Connect to Active Directory](../04%20-%20Screenshots/04%20-%20Entra%20Connect/04_Connect_To_AD.png)
 
 
 
-\---
+---
 
 
 
-\## Configuration
+## Configuration
 
 
 
@@ -120,29 +120,29 @@ The selected configuration included:
 
 
 
-\- Install the synchronization engine
+- Install the synchronization engine
 
-\- Configure the Microsoft Entra ID connector
+- Configure the Microsoft Entra ID connector
 
-\- Configure the `thousiflab.com` connector
+- Configure the `thousiflab.com` connector
 
-\- Enable Password Hash Synchronization
+- Enable Password Hash Synchronization
 
-\- Enable automatic upgrade
+- Enable automatic upgrade
 
-\- Start the synchronization process after installation
-
-
-
-!\[Ready to Configure](../04%20-%20Screenshots/04%20-%20Entra%20Connect/05\_Ready\_To\_Configure.png)
+- Start the synchronization process after installation
 
 
 
-\---
+![Ready to Configure](../04%20-%20Screenshots/04%20-%20Entra%20Connect/05_Ready_To_Configure.png)
 
 
 
-\## Installation Complete
+---
+
+
+
+## Installation Complete
 
 
 
@@ -154,23 +154,23 @@ The installation also confirmed that:
 
 
 
-\- The synchronization service was configured successfully.
+- The synchronization service was configured successfully.
 
-\- The initial synchronization process started automatically.
+- The initial synchronization process started automatically.
 
-\- `ms-DS-ConsistencyGuid` is used as the source anchor attribute.
-
-
-
-!\[Configuration Complete](../04%20-%20Screenshots/04%20-%20Entra%20Connect/06\_Configuration\_Complete.png)
+- `ms-DS-ConsistencyGuid` is used as the source anchor attribute.
 
 
 
-\---
+![Configuration Complete](../04%20-%20Screenshots/04%20-%20Entra%20Connect/06_Configuration_Complete.png)
 
 
 
-\## Result
+---
+
+
+
+## Result
 
 
 

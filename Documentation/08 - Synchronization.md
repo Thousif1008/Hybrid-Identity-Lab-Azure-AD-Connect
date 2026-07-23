@@ -1,8 +1,8 @@
-\# Synchronization
+# Synchronization
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ Synchronization copies identities from the on-premises Active Directory environm
 
 
 
-\---
+---
 
 
 
-\## Initial Synchronization
+## Initial Synchronization
 
 
 
@@ -22,35 +22,35 @@ After Entra Connect was configured, the initial synchronization completed succes
 
 
 
-The \*\*On-premises sync\*\* status confirms that these accounts are synchronized from the local Active Directory environment.
+The **On-premises sync** status confirms that these accounts are synchronized from the local Active Directory environment.
 
 
 
-!\[Users After Initial Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/01\_Entra\_Users\_After\_Initial\_Sync.png)
+![Users After Initial Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
 
 
 
-\---
+---
 
 
 
-\## Creating a Test User
+## Creating a Test User
 
 
 
-To verify that new changes would synchronize correctly, a new user named \*\*Hybrid Test\*\* was created in the \*\*IT\*\* organizational unit in Active Directory.
+To verify that new changes would synchronize correctly, a new user named **Hybrid Test** was created in the **IT** organizational unit in Active Directory.
 
 
 
-!\[New Active Directory User](../04%20-%20Screenshots/05%20-%20Synchronization/02\_New\_AD\_User\_Created.png)
+![New Active Directory User](../04%20-%20Screenshots/05%20-%20Synchronization/02_New_AD_User_Created.png)
 
 
 
-\---
+---
 
 
 
-\## Running a Delta Synchronization
+## Running a Delta Synchronization
 
 
 
@@ -70,19 +70,19 @@ The command completed successfully.
 
 
 
-!\[Delta Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/03\_Delta\_Sync\_PowerShell.png)
+![Delta Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/03_Delta_Sync_PowerShell.png)
 
 
 
-\---
+---
 
 
 
-\## Verifying the New User
+## Verifying the New User
 
 
 
-After the delta synchronization completed, the \*\*Hybrid Test\*\* account appeared in Microsoft Entra ID.
+After the delta synchronization completed, the **Hybrid Test** account appeared in Microsoft Entra ID.
 
 
 
@@ -90,31 +90,31 @@ This confirmed that the newly created Active Directory user was synchronized suc
 
 
 
-!\[Hybrid Test User](../04%20-%20Screenshots/05%20-%20Synchronization/04\_New\_User\_In\_Entra.png)
+![Hybrid Test User](../04%20-%20Screenshots/05%20-%20Synchronization/04_New_User_In_Entra.png)
 
 
 
-\---
+---
 
 
 
-\## User Details
+## User Details
 
 
 
-The Microsoft Entra user profile confirms that the \*\*Hybrid Test\*\* account is available in the cloud directory after synchronization.
+The Microsoft Entra user profile confirms that the **Hybrid Test** account is available in the cloud directory after synchronization.
 
 
 
-!\[Hybrid Test User Overview](../04%20-%20Screenshots/05%20-%20Synchronization/05\_New\_User\_Overview.png)
+![Hybrid Test User Overview](../04%20-%20Screenshots/05%20-%20Synchronization/05_New_User_Overview.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 

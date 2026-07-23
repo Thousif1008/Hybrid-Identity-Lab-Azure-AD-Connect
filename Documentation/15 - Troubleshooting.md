@@ -1,12 +1,12 @@
-\# Troubleshooting
+# Troubleshooting
 
 
 
-\## Windows 11 Home Edition
+## Windows 11 Home Edition
 
 
 
-\### Issue
+### Issue
 
 
 
@@ -14,7 +14,7 @@ The client virtual machine was initially installed with Windows 11 Home. This ed
 
 
 
-\### Resolution
+### Resolution
 
 
 
@@ -22,15 +22,15 @@ The virtual machine was reinstalled with Windows 11 Pro, and the client was succ
 
 
 
-\---
+---
 
 
 
-\## VMware Network Configuration
+## VMware Network Configuration
 
 
 
-\### Issue
+### Issue
 
 
 
@@ -38,7 +38,7 @@ The virtual machines could not access the internet after switching between NAT a
 
 
 
-\### Resolution
+### Resolution
 
 
 
@@ -46,15 +46,15 @@ The virtual network adapter was configured to use Bridged mode, and the IP setti
 
 
 
-\---
+---
 
 
 
-\## Microsoft Edge WebView2 Runtime
+## Microsoft Edge WebView2 Runtime
 
 
 
-\### Issue
+### Issue
 
 
 
@@ -62,7 +62,7 @@ The Microsoft Entra Connect sign-in page did not load during the installation.
 
 
 
-\### Resolution
+### Resolution
 
 
 
@@ -70,15 +70,15 @@ Microsoft Edge WebView2 Runtime was installed, and the installation was started 
 
 
 
-\---
+---
 
 
 
-\## Microsoft Entra Licensing
+## Microsoft Entra Licensing
 
 
 
-\### Issue
+### Issue
 
 
 
@@ -86,7 +86,7 @@ The default Microsoft Entra subscription did not include the features required t
 
 
 
-\### Resolution
+### Resolution
 
 
 
@@ -94,15 +94,15 @@ A Microsoft trial subscription was activated to continue the Microsoft Entra Con
 
 
 
-\---
+---
 
 
 
-\## Password Hash Synchronization Health Alert
+## Password Hash Synchronization Health Alert
 
 
 
-\### Issue
+### Issue
 
 
 
@@ -110,7 +110,7 @@ A Microsoft Entra health notification reported that the Password Hash Synchroniz
 
 
 
-\### Resolution
+### Resolution
 
 
 

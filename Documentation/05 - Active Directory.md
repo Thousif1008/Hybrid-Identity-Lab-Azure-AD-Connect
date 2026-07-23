@@ -1,8 +1,8 @@
-\# Active Directory
+# Active Directory
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,11 +14,11 @@ An organizational structure was created to separate users, groups, computers, an
 
 
 
-\---
+---
 
 
 
-\## Domain Information
+## Domain Information
 
 
 
@@ -34,31 +34,31 @@ An organizational structure was created to separate users, groups, computers, an
 
 
 
-\---
+---
 
 
 
-\## Organizational Unit Structure
+## Organizational Unit Structure
 
 
 
-An \*\*Enterprise\*\* organizational unit was created to organize Active Directory objects. Separate organizational units were added for users, groups, computers, and resources to keep the directory organized and easier to manage.
+An **Enterprise** organizational unit was created to organize Active Directory objects. Separate organizational units were added for users, groups, computers, and resources to keep the directory organized and easier to manage.
 
 
 
-!\[Enterprise OU Structure](../04%20-%20Screenshots/02%20-%20Active%20Directory/01\_Enterprise\_OU\_Structure.png)
+![Enterprise OU Structure](../04%20-%20Screenshots/02%20-%20Active%20Directory/01_Enterprise_OU_Structure.png)
 
 
 
-\---
+---
 
 
 
-\## User Organization
+## User Organization
 
 
 
-Under the \*\*Users\*\* organizational unit, additional folders were created to separate accounts by department and function.
+Under the **Users** organizational unit, additional folders were created to separate accounts by department and function.
 
 
 
@@ -66,21 +66,21 @@ The following organizational units were created:
 
 
 
-\- Admins
+- Admins
 
-\- Disabled Users
+- Disabled Users
 
-\- Finance
+- Finance
 
-\- HR
+- HR
 
-\- IT
+- IT
 
-\- Management
+- Management
 
-\- Sales
+- Sales
 
-\- Service Accounts
+- Service Accounts
 
 
 
@@ -88,15 +88,15 @@ This structure allows users to be managed independently and makes it easier to a
 
 
 
-!\[Department OUs](../04%20-%20Screenshots/02%20-%20Active%20Directory/02\_Department\_OUs.png)
+![Department OUs](../04%20-%20Screenshots/02%20-%20Active%20Directory/02_Department_OUs.png)
 
 
 
-\---
+---
 
 
 
-\## User Accounts
+## User Accounts
 
 
 
@@ -108,15 +108,15 @@ The lab also includes a test account that is used later to verify directory sync
 
 
 
-!\[Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03\_Department\_Users.png)
+![Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
 
 
 
-\---
+---
 
 
 
-\## Group Policy
+## Group Policy
 
 
 
@@ -128,15 +128,15 @@ The environment includes the default Group Policy Objects along with additional 
 
 
 
-!\[Group Policy Management](../04%20-%20Screenshots/02%20-%20Active%20Directory/04\_Group\_Policy\_Management.png)
+![Group Policy Management](../04%20-%20Screenshots/02%20-%20Active%20Directory/04_Group_Policy_Management.png)
 
 
 
-\---
+---
 
 
 
-\## DNS Configuration
+## DNS Configuration
 
 
 
@@ -152,23 +152,23 @@ Configured records include:
 
 
 
-\- DC01
+- DC01
 
-\- WIN11-CLIENT01
+- WIN11-CLIENT01
 
-\- Active Directory service records
-
-
-
-!\[DNS Manager](../04%20-%20Screenshots/02%20-%20Active%20Directory/05\_DNS\_Manager.png)
+- Active Directory service records
 
 
 
-\---
+![DNS Manager](../04%20-%20Screenshots/02%20-%20Active%20Directory/05_DNS_Manager.png)
 
 
 
-\## Result
+---
+
+
+
+## Result
 
 
 
@@ -176,17 +176,17 @@ The Active Directory environment was successfully configured with:
 
 
 
-\- A Windows Server 2022 domain controller
+- A Windows Server 2022 domain controller
 
-\- The `thousiflab.com` domain
+- The `thousiflab.com` domain
 
-\- A structured organizational unit hierarchy
+- A structured organizational unit hierarchy
 
-\- Departmental user accounts
+- Departmental user accounts
 
-\- Group Policy
+- Group Policy
 
-\- Integrated DNS
+- Integrated DNS
 
 
 

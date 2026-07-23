@@ -1,8 +1,8 @@
-\# Microsoft Entra ID
+# Microsoft Entra ID
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ Microsoft Entra ID is the cloud identity service used in this lab. It provides t
 
 
 
-\---
+---
 
 
 
-\## Tenant Information
+## Tenant Information
 
 
 
@@ -34,15 +34,15 @@ The Microsoft Entra tenant was created as the cloud environment for this hybrid 
 
 
 
-!\[Microsoft Entra Admin Center](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/01\_Entra\_Admin\_Center\_Overview.png)
+![Microsoft Entra Admin Center](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/01_Entra_Admin_Center_Overview.png)
 
 
 
-\---
+---
 
 
 
-\## Tenant Overview
+## Tenant Overview
 
 
 
@@ -54,25 +54,25 @@ From this portal, administrators can:
 
 
 
-\- Manage users and groups
+- Manage users and groups
 
-\- Manage devices
+- Manage devices
 
-\- Configure enterprise applications
+- Configure enterprise applications
 
-\- Assign administrative roles
+- Assign administrative roles
 
-\- Review tenant settings
+- Review tenant settings
 
-\- Verify synchronized objects after Microsoft Entra Connect is configured
-
-
-
-\---
+- Verify synchronized objects after Microsoft Entra Connect is configured
 
 
 
-\## Domain Configuration
+---
+
+
+
+## Domain Configuration
 
 
 
@@ -88,19 +88,19 @@ No additional custom domains have been added. The default domain is used for adm
 
 
 
-The \*\*Custom Domain Names\*\* page is available to add and verify custom domains if required.
+The **Custom Domain Names** page is available to add and verify custom domains if required.
 
 
 
-!\[Custom Domain Names](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/02\_Custom\_Domain\_Names.png)
+![Custom Domain Names](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/02_Custom_Domain_Names.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 

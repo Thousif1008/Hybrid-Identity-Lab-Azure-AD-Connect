@@ -1,8 +1,8 @@
-\# PowerShell
+# PowerShell
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ PowerShell was used to view the synchronization scheduler and manually start syn
 
 
 
-\---
+---
 
 
 
-\## Synchronization Scheduler
+## Synchronization Scheduler
 
 
 
@@ -34,13 +34,13 @@ The output shows information such as:
 
 
 
-\- Synchronization interval
+- Synchronization interval
 
-\- Next synchronization cycle
+- Next synchronization cycle
 
-\- Scheduler status
+- Scheduler status
 
-\- Synchronization status
+- Synchronization status
 
 
 
@@ -48,15 +48,15 @@ This command can be used to verify that the synchronization scheduler is enabled
 
 
 
-!\[Synchronization Scheduler](../04%20-%20Screenshots/07%20-%20PowerShell/01\_Get\_ADSyncScheduler.png)
+![Synchronization Scheduler](../04%20-%20Screenshots/07%20-%20PowerShell/01_Get_ADSyncScheduler.png)
 
 
 
-\---
+---
 
 
 
-\## Delta Synchronization
+## Delta Synchronization
 
 
 
@@ -76,15 +76,15 @@ The command completed successfully.
 
 
 
-!\[Delta Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/02\_Start\_Delta\_Sync.png)
+![Delta Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/02_Start_Delta_Sync.png)
 
 
 
-\---
+---
 
 
 
-\## Initial Synchronization
+## Initial Synchronization
 
 
 
@@ -104,15 +104,15 @@ The command completed successfully.
 
 
 
-!\[Initial Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/03\_Start\_Initial\_Sync.png)
+![Initial Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/03_Start_Initial_Sync.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 

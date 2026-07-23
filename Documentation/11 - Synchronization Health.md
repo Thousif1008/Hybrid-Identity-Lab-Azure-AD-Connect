@@ -1,8 +1,8 @@
-\# Synchronization Health
+# Synchronization Health
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ Synchronization health was verified by checking the synchronization scheduler, r
 
 
 
-\---
+---
 
 
 
-\## Synchronization Scheduler
+## Synchronization Scheduler
 
 
 
@@ -34,15 +34,15 @@ The output shows the synchronization interval, scheduler status, and the next sc
 
 
 
-!\[Synchronization Scheduler](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/04\_ADSync\_Scheduler\_Status.png)
+![Synchronization Scheduler](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/04_ADSync_Scheduler_Status.png)
 
 
 
-\---
+---
 
 
 
-\## Microsoft Entra Health Alert
+## Microsoft Entra Health Alert
 
 
 
@@ -54,15 +54,15 @@ The alert included information about the detected issue and recommended checking
 
 
 
-!\[Microsoft Entra Health Alert](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/01\_Entra\_Health\_Alert.png)
+![Microsoft Entra Health Alert](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/01_Entra_Health_Alert.png)
 
 
 
-\---
+---
 
 
 
-\## Recommended Action
+## Recommended Action
 
 
 
@@ -70,31 +70,31 @@ The alert recommended verifying the Microsoft Entra Sync service and restarting 
 
 
 
-!\[Recommended Action](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/02\_Recommended\_Action.png)
+![Recommended Action](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/02_Recommended_Action.png)
 
 
 
-\---
+---
 
 
 
-\## Service Verification
+## Service Verification
 
 
 
-The \*\*Microsoft Azure AD Sync\*\* service was checked on the server and confirmed to be running.
+The **Microsoft Azure AD Sync** service was checked on the server and confirmed to be running.
 
 
 
-!\[Microsoft Azure AD Sync Service](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/03\_Azure\_AD\_Sync\_Service\_Running.png)
+![Microsoft Azure AD Sync Service](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/03_Azure_AD_Sync_Service_Running.png)
 
 
 
-\---
+---
 
 
 
-\## Manual Synchronization
+## Manual Synchronization
 
 
 
@@ -114,15 +114,15 @@ The command completed successfully.
 
 
 
-!\[Manual Delta Synchronization](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/05\_Manual\_Delta\_Synchronization.png)
+![Manual Delta Synchronization](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/05_Manual_Delta_Synchronization.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 

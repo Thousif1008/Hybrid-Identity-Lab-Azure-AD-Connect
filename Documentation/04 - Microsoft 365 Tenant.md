@@ -1,8 +1,10 @@
-\# Microsoft 365 Tenant
+
+# Microsoft 365 Tenant
 
 
 
-\## Overview
+
+## Overview
 
 
 
@@ -10,7 +12,8 @@ This lab uses a Microsoft 365 tenant as the cloud environment for Microsoft Entr
 
 
 
-\## Purpose
+
+## Purpose
 
 
 
@@ -18,7 +21,8 @@ The Microsoft 365 tenant provides the cloud directory required for this hybrid i
 
 
 
-\## Tenant Details
+
+## Tenant Details
 
 
 
@@ -32,7 +36,8 @@ The Microsoft 365 tenant provides the cloud directory required for this hybrid i
 
 
 
-\## Setup
+
+## Setup
 
 
 
@@ -44,7 +49,8 @@ After the tenant was created, the Microsoft 365 Admin Center became available fo
 
 
 
-\## Microsoft 365 Admin Center
+
+## Microsoft 365 Admin Center
 
 
 
@@ -52,23 +58,34 @@ The Microsoft 365 Admin Center serves as the central management portal for the t
 
 
 
-\- Manage Microsoft 365 services.
 
-\- Access Microsoft Entra ID.
-
-\- Verify synchronized users.
-
-\- Test Microsoft 365 sign-in after synchronization.
-
-\- Manage licenses and cloud identities.
+- Manage Microsoft 365 services.
 
 
-
-!\[Microsoft 365 Admin Center](../Screenshots/01%20-%20Microsoft%20365%20Tenant/01\_Microsoft365\_Admin\_Center\_Home.png)
-
+- Access Microsoft Entra ID.
 
 
-\## Result
+- Verify synchronized users.
+
+
+- Test Microsoft 365 sign-in after synchronization.
+
+
+- Manage licenses and cloud identities.
+
+
+
+!
+[Microsoft 365 Admin Center](../Screenshots/01%20-%20Microsoft%20365%20Tenant/01
+_Microsoft365
+_Admin
+_Center
+_Home.png)
+
+
+
+
+## Result
 
 
 

@@ -1,8 +1,8 @@
-\# Lab Architecture
+# Lab Architecture
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,19 +10,19 @@ This lab uses a hybrid identity environment with an on-premises Active Directory
 
 
 
-!\[Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid\_Identity\_Lab\_Architecture.png)
+![Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 
 
-\---
+---
 
 
 
-\## Lab Components
+## Lab Components
 
 
 
-\### VMware Workstation Pro
+### VMware Workstation Pro
 
 
 
@@ -30,15 +30,15 @@ VMware Workstation Pro hosts the virtual machines used in the lab. The environme
 
 
 
-!\[VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01\_VMware\_Workstation.png)
+![VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 
-\---
+---
 
 
 
-\### Domain Controller (DC01)
+### Domain Controller (DC01)
 
 
 
@@ -46,39 +46,39 @@ The domain controller runs Windows Server 2022 and provides the following servic
 
 
 
-\- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services (AD DS)
 
-\- DNS Server
+- DNS Server
 
-\- Group Policy
+- Group Policy
 
-\- File Server
+- File Server
 
-\- Microsoft Entra Connect
-
-
-
-The Active Directory domain used in this lab is \*\*thousiflab.com\*\*.
+- Microsoft Entra Connect
 
 
 
-\---
+The Active Directory domain used in this lab is **thousiflab.com**.
 
 
 
-\### Client Computer (WIN11-CLIENT01)
+---
 
 
 
-The client computer runs Windows 11 and is joined to the \*\*thousiflab.com\*\* domain. It is used to test domain sign-in and verify hybrid identity synchronization.
+### Client Computer (WIN11-CLIENT01)
 
 
 
-\---
+The client computer runs Windows 11 and is joined to the **thousiflab.com** domain. It is used to test domain sign-in and verify hybrid identity synchronization.
 
 
 
-\### Microsoft Entra ID
+---
+
+
+
+### Microsoft Entra ID
 
 
 
@@ -90,15 +90,15 @@ Tenant:
 
 
 
-\- \*\*thousiflab.onmicrosoft.com\*\*
+- **thousiflab.onmicrosoft.com**
 
 
 
-\---
+---
 
 
 
-\### Microsoft 365
+### Microsoft 365
 
 
 
@@ -106,11 +106,11 @@ Microsoft 365 uses identities synchronized to Microsoft Entra ID for user authen
 
 
 
-\---
+---
 
 
 
-\## Synchronization
+## Synchronization
 
 
 
@@ -118,13 +118,13 @@ Microsoft Entra Connect synchronizes the following objects from Active Directory
 
 
 
-\- Users
+- Users
 
-\- Security Groups
+- Security Groups
 
-\- User Attributes
+- User Attributes
 
-\- Password Hashes
+- Password Hashes
 
 
 
@@ -132,11 +132,11 @@ Synchronization is performed over a secure HTTPS connection (TCP 443).
 
 
 
-\---
+---
 
 
 
-\## Summary
+## Summary
 
 
 

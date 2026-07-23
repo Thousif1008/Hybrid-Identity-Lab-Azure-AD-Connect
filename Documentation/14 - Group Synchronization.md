@@ -1,8 +1,8 @@
-\# Group Synchronization
+# Group Synchronization
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,27 +10,27 @@ This section verifies that security groups created in the on-premises Active Dir
 
 
 
-\---
+---
 
 
 
-\## Creating a Security Group
+## Creating a Security Group
 
 
 
-A new security group named \*\*Cloud\_IT\_Admins\*\* was created in Active Directory.
+A new security group named **Cloud_IT_Admins** was created in Active Directory.
 
 
 
-!\[Security Group Created](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/01\_AD\_Security\_Group\_Created.png)
+![Security Group Created](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/01_AD_Security_Group_Created.png)
 
 
 
-\---
+---
 
 
 
-\## Running a Delta Synchronization
+## Running a Delta Synchronization
 
 
 
@@ -50,37 +50,37 @@ The command completed successfully.
 
 
 
-!\[Delta Synchronization](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/02\_Delta\_Synchronization\_Success.png)
+![Delta Synchronization](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/02_Delta_Synchronization_Success.png)
 
 
 
-\---
+---
 
 
 
-\## Verifying the Group
+## Verifying the Group
 
 
 
-After the synchronization completed, the \*\*Cloud\_IT\_Admins\*\* group appeared in Microsoft Entra ID.
+After the synchronization completed, the **Cloud_IT_Admins** group appeared in Microsoft Entra ID.
 
 
 
-The group source is shown as \*\*Windows Server AD\*\*, indicating that the group was synchronized from Active Directory.
+The group source is shown as **Windows Server AD**, indicating that the group was synchronized from Active Directory.
 
 
 
-!\[Group in Microsoft Entra ID](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/03\_Group\_Visible\_in\_Entra.png)
+![Group in Microsoft Entra ID](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/03_Group_Visible_in_Entra.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 
-The \*\*Cloud\_IT\_Admins\*\* security group was synchronized successfully to Microsoft Entra ID. The synchronized group appeared with its source listed as \*\*Windows Server AD\*\*.
+The **Cloud_IT_Admins** security group was synchronized successfully to Microsoft Entra ID. The synchronized group appeared with its source listed as **Windows Server AD**.
 

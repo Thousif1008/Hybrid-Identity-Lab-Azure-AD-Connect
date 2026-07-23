@@ -1,8 +1,8 @@
-\# Hybrid Identity Testing
+# Hybrid Identity Testing
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,27 +10,27 @@ This section verifies that changes made in the on-premises Active Directory envi
 
 
 
-\---
+---
 
 
 
-\## Selecting the User
+## Selecting the User
 
 
 
-An existing Active Directory user named \*\*James Brown\*\* was selected for testing.
+An existing Active Directory user named **James Brown** was selected for testing.
 
 
 
-!\[User Selected in Active Directory](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/01\_User\_Selected\_In\_AD.png)
+![User Selected in Active Directory](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/01_User_Selected_In_AD.png)
 
 
 
-\---
+---
 
 
 
-\## Disabling the User Account
+## Disabling the User Account
 
 
 
@@ -38,15 +38,15 @@ The user account was disabled in Active Directory.
 
 
 
-!\[User Disabled Confirmation](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/02\_User\_Disabled\_Confirmation.png)
+![User Disabled Confirmation](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/02_User_Disabled_Confirmation.png)
 
 
 
-\---
+---
 
 
 
-\## Running a Delta Synchronization
+## Running a Delta Synchronization
 
 
 
@@ -66,31 +66,31 @@ The command completed successfully.
 
 
 
-!\[Delta Synchronization](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/03\_Delta\_Sync\_PowerShell(1).png)
+![Delta Synchronization](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/03_Delta_Sync_PowerShell(1).png)
 
 
 
-\---
+---
 
 
 
-\## Verifying the Result
+## Verifying the Result
 
 
 
-After the synchronization completed, the \*\*James Brown\*\* account in Microsoft Entra ID showed the account status as \*\*Disabled\*\*, confirming that the change made in Active Directory was synchronized successfully.
+After the synchronization completed, the **James Brown** account in Microsoft Entra ID showed the account status as **Disabled**, confirming that the change made in Active Directory was synchronized successfully.
 
 
 
-!\[Disabled Account in Microsoft Entra ID](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/04\_Account\_Status\_Disabled\_In\_Entra.png)
+![Disabled Account in Microsoft Entra ID](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/04_Account_Status_Disabled_In_Entra.png)
 
 
 
-\---
+---
 
 
 
-\## Result
+## Result
 
 
 

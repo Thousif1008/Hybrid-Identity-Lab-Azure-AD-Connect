@@ -1,8 +1,8 @@
-\# Lab Overview
+# Lab Overview
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,15 +18,15 @@ The project also includes testing, PowerShell administration, synchronization ve
 
 
 
-!\[Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid\_Identity\_Lab\_Architecture.png)
+![Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 
 
-\---
+---
 
 
 
-\## Lab Environment
+## Lab Environment
 
 
 
@@ -34,41 +34,41 @@ The lab consists of one Windows Server 2022 domain controller and one Windows 11
 
 
 
-\### Components
+### Components
 
 
 
-\- VMware Workstation Pro
+- VMware Workstation Pro
 
-\- Windows Server 2022
+- Windows Server 2022
 
-\- Windows 11 Pro
+- Windows 11 Pro
 
-\- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services (AD DS)
 
-\- DNS Server
+- DNS Server
 
-\- Group Policy
+- Group Policy
 
-\- File Server
+- File Server
 
-\- Microsoft Entra ID
+- Microsoft Entra ID
 
-\- Microsoft Entra Connect
+- Microsoft Entra Connect
 
-\- Microsoft 365
-
-
-
-!\[VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01\_VMware\_Workstation.png)
+- Microsoft 365
 
 
 
-\---
+![VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 
-\## Active Directory
+---
+
+
+
+## Active Directory
 
 
 
@@ -76,15 +76,15 @@ An on-premises Active Directory domain was configured with organizational units,
 
 
 
-!\[Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03\_Department\_Users.png)
+![Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
 
 
 
-\---
+---
 
 
 
-\## Microsoft Entra ID
+## Microsoft Entra ID
 
 
 
@@ -92,43 +92,43 @@ Microsoft Entra Connect synchronizes objects from Active Directory to Microsoft 
 
 
 
-!\[Microsoft Entra Users After Initial Sync](../04%20-%20Screenshots/05%20-%20Synchronization/01\_Entra\_Users\_After\_Initial\_Sync.png)
+![Microsoft Entra Users After Initial Sync](../04%20-%20Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
 
 
 
-\---
+---
 
 
 
-\## What This Project Covers
+## What This Project Covers
 
 
 
-\- Building an Active Directory domain
+- Building an Active Directory domain
 
-\- Configuring DNS and Group Policy
+- Configuring DNS and Group Policy
 
-\- Joining a Windows 11 client to the domain
+- Joining a Windows 11 client to the domain
 
-\- Installing and configuring Microsoft Entra Connect
+- Installing and configuring Microsoft Entra Connect
 
-\- Synchronizing users, groups, password hashes, and attributes
+- Synchronizing users, groups, password hashes, and attributes
 
-\- Verifying synchronization in Microsoft Entra ID
+- Verifying synchronization in Microsoft Entra ID
 
-\- Testing hybrid identity sign-in
+- Testing hybrid identity sign-in
 
-\- Running synchronization with PowerShell
+- Running synchronization with PowerShell
 
-\- Troubleshooting common synchronization issues
-
-
-
-\---
+- Troubleshooting common synchronization issues
 
 
 
-\## Summary
+---
+
+
+
+## Summary
 
 
 
