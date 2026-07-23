@@ -22,7 +22,7 @@ An existing Active Directory user named **James Brown** was selected for testing
 
 
 
-![User Selected in Active Directory](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/01_User_Selected_In_AD.png)
+![User Selected in Active Directory](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/01_User_Selected_In_AD.png)
 
 
 
@@ -38,7 +38,7 @@ The user account was disabled in Active Directory.
 
 
 
-![User Disabled Confirmation](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/02_User_Disabled_Confirmation.png)
+![User Disabled Confirmation](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/02_User_Disabled_Confirmation.png)
 
 
 
@@ -66,7 +66,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/03_Delta_Sync_PowerShell(1).png)
+![Delta Synchronization](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/03_Delta_Sync_PowerShell(1).png)
 
 
 
@@ -82,7 +82,7 @@ After the synchronization completed, the **James Brown** account in Microsoft En
 
 
 
-![Disabled Account in Microsoft Entra ID](../04%20-%20Screenshots/06%20-%20Hybrid%20Identity%20Testing/04_Account_Status_Disabled_In_Entra.png)
+![Disabled Account in Microsoft Entra ID](../Screenshots/06%20-%20Hybrid%20Identity%20Testing/04_Account_Status_Disabled_In_Entra.png)
 
 
 

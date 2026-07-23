@@ -34,7 +34,7 @@ The Microsoft Entra tenant was created as the cloud environment for this hybrid 
 
 
 
-![Microsoft Entra Admin Center](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/01_Entra_Admin_Center_Overview.png)
+![Microsoft Entra Admin Center](../Screenshots/03%20-%20Microsoft%20Entra%20ID/01_Entra_Admin_Center_Overview.png)
 
 
 
@@ -92,7 +92,7 @@ The **Custom Domain Names** page is available to add and verify custom domains i
 
 
 
-![Custom Domain Names](../04%20-%20Screenshots/03%20-%20Microsoft%20Entra%20ID/02_Custom_Domain_Names.png)
+![Custom Domain Names](../Screenshots/03%20-%20Microsoft%20Entra%20ID/02_Custom_Domain_Names.png)
 
 
 

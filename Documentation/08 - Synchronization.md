@@ -26,7 +26,7 @@ The **On-premises sync** status confirms that these accounts are synchronized fr
 
 
 
-![Users After Initial Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
+![Users After Initial Synchronization](../Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
 
 
 
@@ -42,7 +42,7 @@ To verify that new changes would synchronize correctly, a new user named **Hybri
 
 
 
-![New Active Directory User](../04%20-%20Screenshots/05%20-%20Synchronization/02_New_AD_User_Created.png)
+![New Active Directory User](../Screenshots/05%20-%20Synchronization/02_New_AD_User_Created.png)
 
 
 
@@ -70,7 +70,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/05%20-%20Synchronization/03_Delta_Sync_PowerShell.png)
+![Delta Synchronization](../Screenshots/05%20-%20Synchronization/03_Delta_Sync_PowerShell.png)
 
 
 
@@ -90,7 +90,7 @@ This confirmed that the newly created Active Directory user was synchronized suc
 
 
 
-![Hybrid Test User](../04%20-%20Screenshots/05%20-%20Synchronization/04_New_User_In_Entra.png)
+![Hybrid Test User](../Screenshots/05%20-%20Synchronization/04_New_User_In_Entra.png)
 
 
 
@@ -106,7 +106,7 @@ The Microsoft Entra user profile confirms that the **Hybrid Test** account is av
 
 
 
-![Hybrid Test User Overview](../04%20-%20Screenshots/05%20-%20Synchronization/05_New_User_Overview.png)
+![Hybrid Test User Overview](../Screenshots/05%20-%20Synchronization/05_New_User_Overview.png)
 
 
 

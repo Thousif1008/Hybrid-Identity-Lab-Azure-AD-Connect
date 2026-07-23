@@ -18,7 +18,7 @@ The lab consists of one Windows Server 2022 domain controller and one Windows 11
 
 
 
-![VMware Workstation](../04%20-%20Screenshots/03%20-%20Prerequisites/01_VMware_Workstation.png)
+![VMware Workstation](../Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 
@@ -68,7 +68,7 @@ The domain controller was deployed on Windows Server 2022.
 
 
 
-![Windows Server 2022](../04%20-%20Screenshots/03%20-%20Prerequisites/02_Windows_Server_2022.png)
+![Windows Server 2022](../Screenshots/12%20-%20Prerequisites/02_Windows_Server_2022.png)
 
 
 
@@ -80,7 +80,7 @@ The client machine was deployed on Windows 11 Pro.
 
 
 
-![Windows 11 Pro](../04%20-%20Screenshots/03%20-%20Prerequisites/03_Windows_11_Pro.png)
+![Windows 11 Pro](../Screenshots/12%20-%20Prerequisites/03_Windows_11_Pro.png)
 
 
 

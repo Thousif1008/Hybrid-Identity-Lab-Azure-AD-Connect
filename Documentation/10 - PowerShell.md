@@ -48,7 +48,7 @@ This command can be used to verify that the synchronization scheduler is enabled
 
 
 
-![Synchronization Scheduler](../04%20-%20Screenshots/07%20-%20PowerShell/01_Get_ADSyncScheduler.png)
+![Synchronization Scheduler](../Screenshots/07%20-%20PowerShell/01_Get_ADSyncScheduler.png)
 
 
 
@@ -76,7 +76,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/02_Start_Delta_Sync.png)
+![Delta Synchronization](../Screenshots/07%20-%20PowerShell/02_Start_Delta_Sync.png)
 
 
 
@@ -104,7 +104,7 @@ The command completed successfully.
 
 
 
-![Initial Synchronization](../04%20-%20Screenshots/07%20-%20PowerShell/03_Start_Initial_Sync.png)
+![Initial Synchronization](../Screenshots/07%20-%20PowerShell/03_Start_Initial_Sync.png)
 
 
 

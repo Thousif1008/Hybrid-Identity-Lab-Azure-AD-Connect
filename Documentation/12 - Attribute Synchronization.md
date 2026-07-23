@@ -22,7 +22,7 @@ The **Business phone number** for the user **Ethan Smith** was updated in Active
 
 
 
-![User Attribute Updated in Active Directory](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/01_AD_User_Attribute_Updated.png)
+![User Attribute Updated in Active Directory](../Screenshots/09%20-%20Attribute%20Synchronization/01_AD_User_Attribute_Updated.png)
 
 
 
@@ -50,7 +50,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/02_Delta_Synchronization_Success.png)
+![Delta Synchronization](../Screenshots/09%20-%20Attribute%20Synchronization/02_Delta_Synchronization_Success.png)
 
 
 
@@ -70,7 +70,7 @@ This confirms that changes made to user attributes in Active Directory are synch
 
 
 
-![Updated User Attribute in Microsoft Entra ID](../04%20-%20Screenshots/09%20-%20Attribute%20Synchronization/03_Entra_User_Attribute_Verified.png)
+![Updated User Attribute in Microsoft Entra ID](../Screenshots/09%20-%20Attribute%20Synchronization/03_Entra_User_Attribute_Verified.png)
 
 
 

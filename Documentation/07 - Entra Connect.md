@@ -22,7 +22,7 @@ The Microsoft Entra Connect installer was downloaded from the Microsoft Entra ad
 
 
 
-![Download Microsoft Entra Connect](../04%20-%20Screenshots/04%20-%20Entra%20Connect/01_Download_Entra_Connect.png)
+![Download Microsoft Entra Connect](../Screenshots/04%20-%20Entra%20Connect/01_Download_Entra_Connect.png)
 
 
 
@@ -50,7 +50,7 @@ Express Settings configures:
 
 
 
-![License Agreement](../04%20-%20Screenshots/04%20-%20Entra%20Connect/02_License_Agreement.png)
+![License Agreement](../Screenshots/04%20-%20Entra%20Connect/02_License_Agreement.png)
 
 
 
@@ -74,7 +74,7 @@ The Microsoft Entra Global Administrator account was used to connect Microsoft E
 
 
 
-![Connect to Microsoft Entra ID](../04%20-%20Screenshots/04%20-%20Entra%20Connect/03_User_Sign_In.png)
+![Connect to Microsoft Entra ID](../Screenshots/04%20-%20Entra%20Connect/03_User_Sign_In.png)
 
 
 
@@ -100,7 +100,7 @@ The Enterprise Administrator account for the on-premises Active Directory domain
 
 
 
-![Connect to Active Directory](../04%20-%20Screenshots/04%20-%20Entra%20Connect/04_Connect_To_AD.png)
+![Connect to Active Directory](../Screenshots/04%20-%20Entra%20Connect/04_Connect_To_AD.png)
 
 
 
@@ -134,7 +134,7 @@ The selected configuration included:
 
 
 
-![Ready to Configure](../04%20-%20Screenshots/04%20-%20Entra%20Connect/05_Ready_To_Configure.png)
+![Ready to Configure](../Screenshots/04%20-%20Entra%20Connect/05_Ready_To_Configure.png)
 
 
 
@@ -162,7 +162,7 @@ The installation also confirmed that:
 
 
 
-![Configuration Complete](../04%20-%20Screenshots/04%20-%20Entra%20Connect/06_Configuration_Complete.png)
+![Configuration Complete](../Screenshots/04%20-%20Entra%20Connect/06_Configuration_Complete.png)
 
 
 

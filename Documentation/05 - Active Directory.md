@@ -46,7 +46,7 @@ An **Enterprise** organizational unit was created to organize Active Directory o
 
 
 
-![Enterprise OU Structure](../04%20-%20Screenshots/02%20-%20Active%20Directory/01_Enterprise_OU_Structure.png)
+![Enterprise OU Structure](../Screenshots/02%20-%20Active%20Directory/01_Enterprise_OU_Structure.png)
 
 
 
@@ -88,7 +88,7 @@ This structure allows users to be managed independently and makes it easier to a
 
 
 
-![Department OUs](../04%20-%20Screenshots/02%20-%20Active%20Directory/02_Department_OUs.png)
+![Department OUs](../Screenshots/02%20-%20Active%20Directory/02_Department_OUs.png)
 
 
 
@@ -108,7 +108,7 @@ The lab also includes a test account that is used later to verify directory sync
 
 
 
-![Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
+![Department Users](../Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
 
 
 
@@ -128,7 +128,7 @@ The environment includes the default Group Policy Objects along with additional 
 
 
 
-![Group Policy Management](../04%20-%20Screenshots/02%20-%20Active%20Directory/04_Group_Policy_Management.png)
+![Group Policy Management](../Screenshots/02%20-%20Active%20Directory/04_Group_Policy_Management.png)
 
 
 
@@ -160,7 +160,7 @@ Configured records include:
 
 
 
-![DNS Manager](../04%20-%20Screenshots/02%20-%20Active%20Directory/05_DNS_Manager.png)
+![DNS Manager](../Screenshots/02%20-%20Active%20Directory/05_DNS_Manager.png)
 
 
 

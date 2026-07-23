@@ -34,7 +34,7 @@ The output shows the synchronization interval, scheduler status, and the next sc
 
 
 
-![Synchronization Scheduler](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/04_ADSync_Scheduler_Status.png)
+![Synchronization Scheduler](../Screenshots/08%20-%20Synchronization%20Health/04_ADSync_Scheduler_Status.png)
 
 
 
@@ -54,7 +54,7 @@ The alert included information about the detected issue and recommended checking
 
 
 
-![Microsoft Entra Health Alert](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/01_Entra_Health_Alert.png)
+![Microsoft Entra Health Alert](../Screenshots/08%20-%20Synchronization%20Health/01_Entra_Health_Alert.png)
 
 
 
@@ -70,7 +70,7 @@ The alert recommended verifying the Microsoft Entra Sync service and restarting 
 
 
 
-![Recommended Action](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/02_Recommended_Action.png)
+![Recommended Action](../Screenshots/08%20-%20Synchronization%20Health/02_Recommended_Action.png)
 
 
 
@@ -86,7 +86,7 @@ The **Microsoft Azure AD Sync** service was checked on the server and confirmed 
 
 
 
-![Microsoft Azure AD Sync Service](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/03_Azure_AD_Sync_Service_Running.png)
+![Microsoft Azure AD Sync Service](../Screenshots/08%20-%20Synchronization%20Health/03_Azure_AD_Sync_Service_Running.png)
 
 
 
@@ -114,7 +114,7 @@ The command completed successfully.
 
 
 
-![Manual Delta Synchronization](../04%20-%20Screenshots/08%20-%20Synchronization%20Health/05_Manual_Delta_Synchronization.png)
+![Manual Delta Synchronization](../Screenshots/08%20-%20Synchronization%20Health/05_Manual_Delta_Synchronization.png)
 
 
 

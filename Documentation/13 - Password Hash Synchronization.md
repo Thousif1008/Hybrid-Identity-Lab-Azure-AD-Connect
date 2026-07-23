@@ -22,7 +22,7 @@ The password for the user **Kabir Ahmed** was reset in Active Directory.
 
 
 
-![Password Reset in Active Directory](../04%20-%20Screenshots/10%20-%20Password%20Hash%20Synchronization/01_Reset_Password_in_Active_Directory.png)
+![Password Reset in Active Directory](../Screenshots/10%20-%20Password%20Hash%20Synchronization/01_Reset_Password_in_Active_Directory.png)
 
 
 
@@ -50,7 +50,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/10%20-%20Password%20Hash%20Synchronization/02_Delta_Synchronization_Success.png)
+![Delta Synchronization](../Screenshots/10%20-%20Password%20Hash%20Synchronization/02_Delta_Synchronization_Success.png)
 
 
 
@@ -70,7 +70,7 @@ The successful sign-in confirmed that the password change in Active Directory ha
 
 
 
-![Successful Sign-In](../04%20-%20Screenshots/10%20-%20Password%20Hash%20Synchronization/03_Successful_Sign_In_After_Password_Reset.png)
+![Successful Sign-In](../Screenshots/10%20-%20Password%20Hash%20Synchronization/03_Successful_Sign_In_After_Password_Reset.png)
 
 
 

@@ -22,7 +22,7 @@ A new security group named **Cloud_IT_Admins** was created in Active Directory.
 
 
 
-![Security Group Created](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/01_AD_Security_Group_Created.png)
+![Security Group Created](../Screenshots/11%20-%20Group%20Synchronization/01_AD_Security_Group_Created.png)
 
 
 
@@ -50,7 +50,7 @@ The command completed successfully.
 
 
 
-![Delta Synchronization](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/02_Delta_Synchronization_Success.png)
+![Delta Synchronization](../Screenshots/11%20-%20Group%20Synchronization/02_Delta_Synchronization_Success.png)
 
 
 
@@ -70,7 +70,7 @@ The group source is shown as **Windows Server AD**, indicating that the group wa
 
 
 
-![Group in Microsoft Entra ID](../04%20-%20Screenshots/11%20-%20Group%20Synchronization/03_Group_Visible_in_Entra.png)
+![Group in Microsoft Entra ID](../Screenshots/11%20-%20Group%20Synchronization/03_Group_Visible_in_Entra.png)
 
 
 

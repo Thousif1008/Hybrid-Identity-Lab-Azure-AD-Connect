@@ -30,7 +30,7 @@ VMware Workstation Pro hosts the virtual machines used in the lab. The environme
 
 
 
-![VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
+![VMware Workstation](../Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 

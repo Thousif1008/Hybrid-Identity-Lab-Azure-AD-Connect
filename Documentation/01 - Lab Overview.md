@@ -59,7 +59,7 @@ The lab consists of one Windows Server 2022 domain controller and one Windows 11
 
 
 
-![VMware Workstation](../04%20-%20Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
+![VMware Workstation](../Screenshots/12%20-%20Prerequisites/01_VMware_Workstation.png)
 
 
 
@@ -75,7 +75,7 @@ An on-premises Active Directory domain was configured with organizational units,
 
 
 
-![Department Users](../04%20-%20Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
+![Department Users](../Screenshots/02%20-%20Active%20Directory/03_Department_Users.png)
 
 
 
@@ -91,7 +91,7 @@ Microsoft Entra Connect synchronizes objects from Active Directory to Microsoft 
 
 
 
-![Microsoft Entra Users After Initial Sync](../04%20-%20Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
+![Microsoft Entra Users After Initial Sync](../Screenshots/05%20-%20Synchronization/01_Entra_Users_After_Initial_Sync.png)
 
 
 
