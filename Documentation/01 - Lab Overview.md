@@ -18,8 +18,7 @@ The project also includes testing, PowerShell administration, synchronization ve
 
 
 
-![Microsoft 365 Admin Center](/Screenshots/01%20-%20Microsoft%20365%20Tenant/01_Microsoft365_Admin_Center_Home.png)
-
+![Hybrid Identity Lab Architecture](../Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 ---
 
