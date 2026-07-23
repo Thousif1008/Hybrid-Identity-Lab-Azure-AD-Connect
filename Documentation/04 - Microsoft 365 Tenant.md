@@ -75,12 +75,7 @@ The Microsoft 365 Admin Center serves as the central management portal for the t
 
 
 
-!
-[Microsoft 365 Admin Center](../Screenshots/01%20-%20Microsoft%20365%20Tenant/01
-_Microsoft365
-_Admin
-_Center
-_Home.png)
+![Microsoft 365 Admin Center](../Screenshots/01%20-%20Microsoft%20365%20Tenant/01_Microsoft365_Admin_Center_Home.png)
 
 
 
