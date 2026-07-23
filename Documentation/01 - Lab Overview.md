@@ -18,7 +18,7 @@ The project also includes testing, PowerShell administration, synchronization ve
 
 
 
-![Hybrid Identity Lab Architecture](../01%20-%20Architecture/Hybrid_Identity_Lab_Architecture.png)
+![Hybrid Identity Lab Architecture](Architecture/Hybrid_Identity_Lab_Architecture.png)
 
 
 
