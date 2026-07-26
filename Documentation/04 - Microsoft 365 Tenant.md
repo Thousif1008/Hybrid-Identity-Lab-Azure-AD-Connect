@@ -27,7 +27,6 @@ The Microsoft 365 tenant provides the cloud directory required for this hybrid i
 
 
 | Item | Value |
-
 |------|-------|
 
 | Tenant Domain | `thousiflab.onmicrosoft.com` |

@@ -19,7 +19,6 @@ Microsoft Entra ID is the cloud identity service used in this lab. It provides t
 
 
 | Item | Value |
-
 |------|-------|
 
 | Tenant Name | `Thousiflab` |

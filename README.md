@@ -91,8 +91,7 @@ The repository includes the complete implementation process, PowerShell automati
 
 
 | Component | Details |
-
-|-----------|---------|
+|----------|--------------|
 
 | Hypervisor | VMware Workstation Pro |
 
@@ -224,11 +223,8 @@ Hybrid-Identity-Lab-Azure-AD-Connect
 
 The complete implementation guide is available in the **Documentation** folder.
 
-
-
 | Document | Description |
-
-|----------|-------------|
+|----------|--------------|
 
 | [01 - Lab Overview](Documentation/01%20-%20Lab%20Overview.md) | Project overview |
 
@@ -277,19 +273,12 @@ The following scripts were used to automate common Active Directory and Microsof
 
 
 | Script | Description |
-
-|---------|-------------|
-
+|--------|--------------|
 | `Create-OUs.ps1` | Creates the Organizational Unit (OU) structure. |
-
 | `Create-SecurityGroups.ps1` | Creates department security groups. |
-
 | `Import-EnterpriseUsers-XLSX.ps1` | Imports users from Excel into AD. Supports `-WhatIf` for testing, generates random passwords, and saves a CSV report after each run. |
-
 | `Start-ADSyncInitialSync.ps1` | Starts an Initial Synchronization cycle. |
-
 | `Start-ADSyncDeltaSync.ps1` | Starts a Delta Synchronization cycle. |
-
 | `Get-ADSyncScheduler.ps1` | Displays the Microsoft Entra Connect synchronization schedule. |
 
 **Note:** the import script used to use one fixed password if a row was missing one. Changed it to generate a random password per user instead, since reusing the same password isn't good practice. Also added `-WhatIf` so you can preview what the script will do before it makes any changes.

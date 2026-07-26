@@ -23,7 +23,6 @@ An organizational structure was created to separate users, groups, computers, an
 
 
 | Item | Value |
-
 |------|-------|
 
 | Domain | `thousiflab.com` |

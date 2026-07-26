@@ -169,7 +169,6 @@ Get-ADSyncScheduler
 
 
 | Component | Details |
-
 |----------|---------|
 
 | Hypervisor | VMware Workstation Pro |

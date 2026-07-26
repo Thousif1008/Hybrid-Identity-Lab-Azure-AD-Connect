@@ -67,7 +67,6 @@ The Microsoft Entra Global Administrator account was used to connect Microsoft E
 
 
 | Item | Value |
-
 |------|-------|
 
 | Administrator Account | `Thousif@thousiflab.onmicrosoft.com` |
@@ -91,7 +90,6 @@ The Enterprise Administrator account for the on-premises Active Directory domain
 
 
 | Item | Value |
-
 |------|-------|
 
 | Domain | `thousiflab.com` |
