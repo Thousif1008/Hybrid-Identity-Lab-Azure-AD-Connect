@@ -292,6 +292,8 @@ The following scripts were used to automate common Active Directory and Microsof
 
 | `Get-ADSyncScheduler.ps1` | Displays the Microsoft Entra Connect synchronization schedule. |
 
+**Note:** the import script used to use one fixed password if a row was missing one. Changed it to generate a random password per user instead, since reusing the same password isn't good practice. Also added `-WhatIf` so you can preview what the script will do before it makes any changes.
+
 
 
 ---
