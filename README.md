@@ -284,7 +284,7 @@ The following scripts were used to automate common Active Directory and Microsof
 
 | `Create-SecurityGroups.ps1` | Creates department security groups. |
 
-| `Import-EnterpriseUsers-XLSX.ps1` | Imports users from an Excel workbook into Active Directory. |
+| `Import-EnterpriseUsers-XLSX.ps1` | Imports users from Excel into AD. Supports `-WhatIf` for testing, generates random passwords, and saves a CSV report after each run. |
 
 | `Start-ADSyncInitialSync.ps1` | Starts an Initial Synchronization cycle. |
 
